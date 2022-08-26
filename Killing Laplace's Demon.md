@@ -4,26 +4,17 @@
 
 What are we really doing with this science thing?
 
-When we observe some phenomenon, we try to explain it. After that, we transform our initial guess explanation into a testable hypothesis. Then we test our hypothesis using an experiment. If our hypothesis passes the test then it is considered a model of the phenomena we observed.
+When we observe a previously unknown phenomenon, we try to explain it. Then, we transform our initial interpretation into a testable hypothesis. We then test our hypothesis using an experiment. If our hypothesis passes the test, it is considered a model of the phenomena we observed. Over time as we ask more questions about the phenomenon our model gets more and more complicated. This happens as some things are added, replaced and removed from our model. Or maybe we discover that the phenomenon is just a side effect of a larger process taking place in the background.
 
-Over time as we ask more questions about the phenomena our model gets more and more complicated. This happens as some things are replaced and others are removed from our model or maybe we discover that the phenomena are just a side effect of a larger process going on in the background that we weren’t able to observe with our previous knowledge only with our newly acquired understandings are we able to observe and question this new phenomenon. 
+Living in this universe is like being locked in a room while being blind and crippled. Not knowing how we got here, we are just trying to understand our situation. Maybe we try to make a model of the room we’re in using ping pong balls. We can do this by throwing a bunch of balls in every direction and looking at which ones bounce and come back. But this can go wrong in many ways. Maybe we didn't throw the balls far enough to bounce off the wall, maybe we forgot to throw one in a specific direction. In case it wasn’t clear the room is the universe, and the balls are logical questions that help us model our universe.
 
-Living in this universe is like being locked in a room while being blind and crippled and not knowing how we got here, we are just trying to understand our situation. Maybe we try to make a model of the room we’re in using ping pong balls. We can do this by throwing a bunch of ping pong balls in every direction and looking at which ones bounce and come back. But this can go wrong in many ways maybe we didn’t throw the ping pong balls far enough to bounce off the wall maybe we forgot to through one in a specific direction.
-
-
-In case it wasn’t clear the room is the universe, and the balls are logical questions that help us model our universe.
-
-But some scientists question the objectivity of this model of our universe. Are these models we developed really defining the objective reality of the universe? Or Are they describing our (humans) view of the universe? For example
+But some scientists question the objectivity of this model of our universe. Are these models we have developed really defining the objective reality of the universe? Or Are they describing our view of the universe? For example, Niels Bohr insisted that what we actually model is our observations, not the world itself.
 
 > “It is wrong to think that the task of physics is to find out how Nature is. Physics concerns what we can say about Nature” – Neils Bohr
 
-Neils Bohr insisted that what we actually model is the results of observations, not the world.
+The question of the objectivity of our models of the universe arises when we try to predict the outcomes of events. Because if these models don’t really describe reality then we have no reason to believe the predictions generated using these models. # These predictions would in any way be analogous to what is observed in reality. As some scientists question the objectivity of reality others are confident in the fact that the universe is objective. They say that the universe is just a state that evolves over time using the laws of physics. This is true to the extent of our current understanding of the universe. 
 
-The question of the objectivity of our models of the universe arises when we try to predict the outcomes of events. Because if these models don’t really describe reality then we have no reason to believe the predictions generated using these models, would in any way be analogous to the ones observed in reality.
-
-As some scientists question the objectivity of reality others are confident in the fact that the universe is objective. They say that the universe is just a state that evolves over time using the laws of physics which is true to the extent of our current understanding of the universe. 
-
-Our laws of nature are just models of the real thing. But we test these models based on how well they predict the next state of the thing they are describing. So if we tested these models of reality based on how well they predict the future. Then what we get at the end is an optimized way of telling the objective future.
+Our laws of nature are just models of the real thing. But we test these models based on how well they predict the next state of the phenomenon they are describing. So if we tested these models of reality based on how well they predict the future. Then what we get at the end is an optimized way of telling the objective future.
 
 Then what we are really doing with this thing we call science is looking through the veils of time to catch a glimpse into the future.
 
@@ -33,26 +24,25 @@ This is not as weird as you might think. Let’s take a look at free-falling bod
 
 To predict the motion of a free-falling body all we need to know is the initial height of the ball from the surface of the earth and its initial velocity using these two pieces of information we can calculate the state of the ball at any time in the future or the past.
 
-For example if the position of a free falling body is `2 m` above the surface of the earth and its velocity is `0 m/s` at `t = 0s`. We can calculate what its position and velocity will be at `t = 3s` using the formulas `h(t) = 1/2(g(t^2))` and `v(t) = gt` which as we can see, doesn’t depend on the mass of the object because it is in free fall. So the position and velocity at `t = 3s` is `45 m` and `30 m/s` respectively. But the kicker here is that we can ask what was happening at `t = -2s`. Which is `20 m` above the initial height of the earth and velocity of `-20 m/s`.
+For example if the position of a free falling body is `2 m` above the surface of the earth and its velocity is `0 m/s` at `t = 0s`. We can calculate what its position and velocity will be at `t = 3s` using the formulas `h(t) = 1/2(g(t^2))` and `v(t) = gt` which as we can see, doesn’t depend on the mass of the object because it is in free fall. So the position and velocity at `t = 3s` is `45 m` and `30 m/s` respectively. But the kicker here is that we can ask what was happening at `t = -2s`. Which would be `20 m` above the initial height of `2 m` and a velocity of `-20 m/s` (the minus shows the direction of the fall).
 
 ## Origins
 
 After **Isaac Newton** had published *Philosophiæ Naturalis Principia Mathematica* (Mathematical Principles of Natural Philosophy) in which he formulated the laws of motion and universal gravitation, people started to realize that this model can be used to calculate the evolution of the position of every particle in the universe. One of the people that came to this realization was **Pierre-Simon Laplace** who introduced a thought experiment to the world in his book *A Philosophical Essay on Probabilities* by stating the following:
 
-> “We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis, it would embrace in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes”
+> “We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis, it would embrace in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes” - Pierre-Simon Laplace
 
-The intellect described in this thought experiment is commonly called **Laplace’s Demon**.
+ # The intellect described in this thought experiment is commonly called **Laplace’s Demon**.
 
-What Laplace is trying to explain here is that according to the physics of his time which is classical physics centered around Newton’s laws of motion. If you could collect the state of every particle in the universe and you had enough computation power to analyze (using the models of the universe we previously talked about) the data you collected then the past, the future, and everything in between is no longer uncertain because as we saw in the previous example you can turn the dials of time to the extent of your will to see what happened in the past or **what is going to happen** in the future. If you were able to achieve this then time will no longer be a restriction. It would just merely be another variable in your equation.
+What Laplace is trying to explain here is that according to the physics of his time which is classical physics centered around Newton’s laws of motion. If you could collect the state of every particle in the universe and if you had enough computation power to analyze (using the models of the universe we previously talked about) the data you collected then the past, the future, and everything in between is no longer uncertain because as we saw in the previous example you can turn the dials of time to the extent of your will to see **what had happened in the past** or **what is going to happen** in the future. If you were able to achieve this then time will no longer be a restriction. It would just merely be another variable in your equation.
 
-Note that I said, “**what is going to happen**". You might have sensed a bit of certainty in that statement. In this model of the universe, the universe is void of any uncertainty meaning that if you consider a particle moving through a vacuum its position and its momentum are always known at any point in time. Some of you might be saying what about Heisenberg’s Uncertainty Principle, we will get to it.
+Note that I said, “**what is going to happen**". You might have sensed a bit of certainty in that statement. In this model of the universe, the universe is void of any uncertainty. If you consider a particle moving through the vacuum of space, its position and its momentum are always known at any point in time. Some of you might be saying what about Heisenberg’s Uncertainty Principle, we will get to it in the following sections.
 
-When you combine this with the law of conservation of mass and the law of conservation of energy. The universe can be considered a completely adiabatic system in which nothing happening outside it can influence what happens inside it. Anything that exists now existed in some form since the beginning of the universe. You might have heard this before when people say that the oxygen that is today essential to life on our planet was formed in an extreme condition caused by dying stars or supernova.
-
+When you combine this with the law of the conservation of mass and the law of the conservation of energy, the universe can be considered a completely adiabatic system in which nothing happening outside it can influence what happens inside it. Anything that exists now existed in some form since the beginning of the universe. You might have heard this before when people say that the oxygen that is today essential to life on our planet was formed in the extreme conditions caused by a dying star.
 
 This view of the universe is called **determinism**.
 
-This can also be called a **clockwork universe** in which the universe is considered a perfect machine much like a mechanical clock whose gears are governed by the laws of physics thus making every part of the system predictable.
+This can also be considered as a **clockwork universe** in which the universe is considered a perfect machine much like a mechanical clock whose gears are governed by the laws of physics thus making every part of the system predictable. Although Laplace referred to a being when he described his thought experiment, in modern day physics Laplace's Demon is thought of as a computer capable of simulating the universe.
 
 ## The Implications
 
@@ -62,46 +52,47 @@ There are a lot of interesting questions that arise when discussing this topic.
 * Can you make a computer that can compute the universe while itself being part of that universe?
 * How much energy would this computer need?
 
-We will not discuss this question instead, we are going to look at the physical models of reality that we have today to test if they allow this kind computer or being to exist. We will be discussing the question **Can Laplace’s Demon Exist?**.
+We will not discuss these questions here, but we will look at the physical models of reality we have today to test if they allow this kind of computer or being to exist. We will contemplate the question **Can Laplace’s Demon Exist?**.
 
-The most harsh and possibly dangerous truth that arises when discussing determinism is, anything we humans do in this life doesn't matter. We aren't independent actors writing our own story instead we are all actors playing the roles nature wrote for us. This means all the bad things tha happen in life were meant to happen and we can't stop them. Murders will not be guilty because they were meant to kill. People will not be responsible for their actions.
-
-Oedipus was meant to kill his father and marry his mother. A deterministic universe has no place for **Free Will**. Now that we know what's on the line if Laplace's Demon exists, let's see some arguments against Laplace's Demon.
+The harshest and possibly the most dangerous implication of determinism is that anything we humans do in this life doesn't matter. We aren't independent actors writing our own stories. We are all actors playing the roles nature wrote for us. The things that happen in life are supposed to happen, and we can't stop them. Murders can not be guilty of their crimes because they were always supposed to kill. People can not be responsible for their actions under determinism. Oedipus was always supposed to kill his father and marry his mother. It is important to remember that you yourself are part of the physical universe, which implies that you, your body, and everything else in the universe follow the same mechanics of the universe that everything else follows. Shortly, you are not immune to the laws of physics. A deterministic universe has no place for **Free Will**. Now that we know what's on the line if Laplace's Demon exists, the proposition of Killing Laplace's Demon becomes very intriguing. Laplace's Demon is a product of a thought experiment. To kill it, we need arguments that contradict its existence.
 
 ## The Beasts
 
-Laplace's Demon will face three beasts that hopefully by the end of this essay will kill Laplace's Demon.
+Laplace's Demon will face the following three beasts of reason to defend its existence.
 
 1. Chaos Theory
 2. Heisenberg’s Uncertainty Principle
 3. Black Hole Evaporation (Hawking Radiation)
 
+*These are not all of the arguments against determinism. They are just the ones that are covered here.*
+
 ### Chaos Theory
 
 One of the many arguments against the possibility of the existence of Laplace’s Demon is **Chaos Theory**.
 
-Chaos Theory deals with the major changes that result from minor changes in the initial state of a deterministic system. This is commonly described using the metaphor called the *Butterfly Effect* which states that A butterfly flapping its wings in Brazil could cause a tornado in Texas. This theory states that small differences in initial conditions, such as those due to errors in measurements or due to rounding errors in computation can yield widely diverging results in the following states.
+Chaos Theory deals with the changes in the final state that result from minor changes in the initial state of a deterministic system. One example is the **Butterfly Effect** which states that A butterfly flapping its wings in Brazil could cause a tornado in Texas. Everything in the world is connected. Because of this, one could never know the full effects of even the tiniest of forces or lack thereof. Even the small force from a butterfly flapping its wings in Brazil might affect the molecules around the butterfly, starting a chain reaction that eventually causes a tornado in Texas. This theory states that tiny differences in initial conditions, such as those caused by errors in measurement or calculation, can yield widely diverging results in the final state.
 
-The thing about measurement is that you are always restricted by your measuring device. If you are going to measure the length of some line and you are using a regular ruler then you would be limited by the ruler’s scale so if you get a measurement of something like `2.1 cm` then there is an implicit uncertainty of `1 mm` in your measurement. Even if you use a laser beam to measure the length of the line, you would be restricted by the wavelength of light.
+Measurement is always limited by the measuring device. For example, any measurement made with a regular ruler is limited by the ruler's scale, which is approximately `1 mm`. When using a ruler with a scale of `1 mm`, there is an implicit uncertainty of `0.5 mm` in your measurements. The actual value of a measurement such as `2.1 cm` is somewhere between `2.05 cm` and `2.15 cm`. Even if you use a laser beam for your measurement, you would be restricted by the wavelength of the laser and a host of other factors. Although we can never get rid of it, we can always minimize the uncertainty in our measurement using a more accurate measuring device.
 
-We can always minimize the uncertainty in our measurement using a more accurate measuring device but we can never get rid of it. In order for Laplace’s Demon to exist it needs to be able to collect each and every particle’s position and momentum to infinite precision but that is not possible. Even if the universe is deterministic Laplace’s Demon wouldn’t be able to predict the future until the end of time or look back to the past until the beginning of time. After some steps of the evolution of the particles in the universe the butterfly effect creeps into our computation and disturbs our ability to predict.
+Laplace’s Demon needs to be able to collect every particle in the universe's position and momentum to infinite precision. This is not possible due to the limits set by chaos theory. Even if the universe is deterministic, Laplace's Demon cannot predict the future until the end of time. Alternatively, it can't look back to the past until the beginning of time. Because the butterfly effect creeps into our computation after some steps in the simulation of the universe, it impedes our ability to predict the future with certainty.
 
-Chaos theory doesn’t completely rule out the possibility of Laplace’s Demon it merely puts limits on its sight of the future and the past. Chaos theory is like a fog that sets in when we look too far into the future or too far back to the past. Chaos theory tells us that even if the universe is deterministic we can’t look at all time at the same time.
+Chaos theory doesn’t completely rule out the possibility of the existence of Laplace’s Demon. It simply limits the demon's ability to view the future and the past. Chaos theory is like a fog that sets in when we look too far into the future or too far back to the past. Chaos theory tells us that even if the universe is deterministic we can’t look at all of time at the same time.
 
-The effects of chaos theory is quiet predictable when you consider the inherent inaccuracy in measurements that is every measurement has an uncertainty of some kind. For example if we are predicting what the area of a square will be if we square its sides. If our initial state is `2.4 cm` when measured using a ruler of uncertainty `1 mm`. This means that our measurement is somewhere between `2.39 cm` to `2.41 cm`. We will get the following
+The effects of chaos theory are quite predictable when you consider the inherent inaccuracy of all measurements. For example, if we are continuously squaring a number, our uncertainty gets bigger and bigger with each evolution until our measurements are no longer useful. When measured with a ruler of uncertainty `0.05 mm`, our initial state is `2.0 cm`. So, our actual value is somewhere between `1.95 cm` and `2.05 cm`. We will get the following
 
 ```
-initial state = 2.4 ± 0.01 cm = 2.4 ± 0.42%
-1st evolution = (2.4 ± 0.42%)2 = 5.76 ± 0.84%
-2st evolution = (5.76 ± 0.84%)2 = 33.1776 ± 1.68%
-3st evolution = (33.1776 ± 1.68%)2 = 1,100.75314176 ± 3.36%
+initial state = 2.0 ± 0.05 cm = 2.4 ± 2.5%
+1st evolution = (2.0 ± 2.5%) * 2 = 4.0 ± 5.0%
+2nd evolution = (4.0 ± 5.0%) * 2 = 16.0 ± 10.0%
+3rd evolution = (16.0 ± 10.0%) * 2 = 256.0 ± 20.0%
+4th evolution = (256.0 ± 20.0%) * 2 = 65,536.0 ± 40.0%
 ```
 
-When we continue evolving the state the uncertainties get bigger and bigger making our predictions less and less dependable.
+In the process of evolving the state, the uncertainties become bigger and bigger, making our predictions less and less reliable.
 
 ### Heisenberg's Uncertainty Principle
 
-The next beast Laplace’s Demon has to face is the beast of Heisenberg’s Uncertainty Principle, which states that you can’t measure both the position and momentum (velocity) of a particle exactly.
+The next beast Laplace’s Demon has to face is the beast of Heisenberg’s Uncertainty Principle, which states that you can’t measure both the position and momentum (velocity) of a particle exactly at the same time.
 
 I realize that through out this essay i have been referring to **some particles** the reason forthis ambiguity is, throughout history as this deterministic view of our universe evolved. Scientists have been learning a lot about the fundamental particles of nature. Because of this different scientists that worked on this problem used the word particle to mean different things. Before modern particle physics the particles that were referred to might have been some sort indivisible small material or materials that constitute everything in the universe. In modern science thy are the particles of the standard model. The **Standard Model** of particle physics is the theory describing **three of the four known fundamental forces** in the universe and **twelve elementary particles**. Gravity remains unexplained by this model. If you are talking about determinism in terms of the standard model, you are asking if the interactions between the fundamental forces and the elementary particles are unpredictable or random in anyway. Some say that even the standard model is not fundamental enough by pointing to its shortcomings in explaining gravity. In Laplace’s Demon there is an implicit assumption that the most fundamental thing that constitutes everything in the universe is some sort of particle, but there are other modern theories of everything or theories of determinism that consider other things as fundamental. For example in **string theory** the most fundamental things from which everything is made up from are *infinitesimal vibrating strings*, there are also some theories that that propose that the most fundamental thing in the universe is **binary information** (**1s** and **0s**). In this essay I have been using the word particle to mean the most fundamental thing in the theory we are discussing. In this specific case we are considering the elementary particles of the standard model mainly the electron.
 
@@ -178,4 +169,6 @@ Laplace's Demon is now incapable of knowing all time. Chaos Theory put limits to
 In the Introduction section, It was mentioned that science is dependent on the universe being objective. If you treat the universe as a black box that takes in an input and produces an output. Essentially how experimentation works, which we heavily depend on for acquiring knowledge, is the experimenters provide input for the black box and record the output. They do this again and again until they have enough data to reverse engineer the process that takes place inside the black box. Our universe interpedeted under determininisim and is analogous to the black box. It always produces the same output for a specific input. If determinism is proven to be false, we can no longer be certain that the universe doesn't produce the same states under the same conditions. This will render all the knowledge we have acquired from experimentation false. The patterns we saw in nature will all just have been illusions. If we can't test that a specific input gives a specific output then we can't check if our hypothesis are right. Determinism is not about the dream of simulating the universe. It is about the hope that our quest for knowledge can bring us closer to the truth. It is about the belief that the universe is objective. If we finally understand how it works, We will be to know the **circumstances of our existence**.
 
 The idea of determinism has been regarded as an emotional attachment to control and order in the universe. I don't think that is true because determinism is the natural side effect of the way we conduct science. A random universe is much scarier than a deterministic universe. I don't think people realize that. The main reason people fear determinism is that under it people wouldn't be responsible for their actions. It would mean that we are all puppets controlled by the grand calculus of the universe. It would mean that we have no control over our fates. It would mean that we are active actors in our lives but passive observers of what has already been decided. On the other hand, determinism allows us to see the strings. In determinism, we can make models of the universe and test their validity, and trust the results of our experiments. Randomness, while giving us freedom and the burden of responsibility, it takes a tremendous sacrifice. We must sacrifice our belief that there is a correlation between cause and effect. Randomness would mean that what happens before is not in any way able to affect what happens after. Theories produced using the scientific method would be no more truthful than their religious or cultural counterparts. We can't definitively know anything about a random universe. A random universe would mean that, we can't light the torch of knowledge in this cave of delusion.
+
+ Hoping for a day when we can say we understand this room we are stuck in. This has been the memorial for Laplace's Demon.
 
