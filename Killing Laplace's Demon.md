@@ -78,7 +78,7 @@ Laplace’s Demon needs to be able to collect the position and momentum of every
 
 Chaos theory doesn’t completely rule out the possibility of the existence of Laplace’s Demon. It simply limits the demon's ability to view the future and the past. Chaos theory is like a fog that sets in when we look too far into the future or too far back to the past. Chaos theory tells us that even if the universe is deterministic we can’t look at all of time at the same time.
 
-The effects of chaos theory are quite obvious when you consider the inherent inaccuracy of all measurements. For example, if we are continuously squaring a number, our uncertainty gets broader and more pronounced with each evolution until our measurements are no longer useful. When measured with a ruler of uncertainty `0.05 mm`, our initial state is `2.0 cm`. So, our actual value is somewhere between `1.95 cm` and `2.05 cm`. If we square this number continuously, we will get the following.
+The effects of chaos theory are quite obvious when you consider the inherent inaccuracy of all measurements. For example, if we are continuously squaring a number, our uncertainty gets broader and more pronounced with each evolution until our measurements are no longer useful. When measured with a ruler of uncertainty `0.5 mm`, our initial state is `2.0 cm`. So, our actual value is somewhere between `1.95 cm` and `2.05 cm`. If we square this number continuously, we will get the following.
 
 ```
 initial state = 2.0 ± 0.05 cm = 2.4 ± 2.5%
